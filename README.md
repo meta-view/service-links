@@ -1,5 +1,5 @@
-This list contains direct links to data privacy functions of different internet services.
-Service names are ordered alphabetically.
+This list contains direct links to data privacy functions of different internet services.  
+Service names are ordered alphabetically.  
 
 ---
 
