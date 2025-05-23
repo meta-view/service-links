@@ -33,6 +33,11 @@ privacy_settings: https://www.flickr.com/account/privacy
 export_request: https://www.garmin.com/de-DE/account/datamanagement/exportdata  
 privacy_settings: https://connect.garmin.com/modern/settings/privacySettings  
 
+## getpocket.com
+
+export_request: https://getpocket.com/export
+privacy_settings: https://getpocket.com/privacy
+
 ## google.com
 
 export_request: https://takeout.google.com/settings/takeout/custom/circles,plus_one,plus_communities,stream  
